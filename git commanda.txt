@@ -1,3 +1,6 @@
+FYI:
+https://www.freecodecamp.org/news/pushing-to-github-made-simple-enough-for-poets/
+
 Arpita Gadyal@LAPTOP-PDKUVLOI MINGW64 ~/Desktop/temp
 $ git status
 fatal: not a git repository (or any of the parent directories): .git
